@@ -61,16 +61,16 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdwarish7867&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mdwarish7867&theme=dark&hide_border=false" alt="GitHub Streak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwarish7867&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdwarishansari&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mdwarishansari&theme=dark&hide_border=false" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwarishansari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdwarish7867&theme=merko&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdwarishansari&theme=merko&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -84,7 +84,7 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mdwarish7867&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=mdwarishansari&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
 </p>
 
 ---
