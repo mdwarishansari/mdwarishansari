@@ -30,14 +30,10 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://facebook.com/profile.php?id=100074841669595" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/mohammadwarish2024/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
-  </a>
-
-  <!-- LinkedIn Follow button -->
+  <a href="https://linktr.ee/mdwarishansari" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Linktree-43E660?logo=linktree&logoColor=white&style=for-the-badge" alt="Linktree" />
+</a>
+<!-- LinkedIn Follow button -->
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=md-warish-ansari-46b1ab258" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Follow on LinkedIn" />
   </a>
@@ -48,6 +44,14 @@
   <a href="mailto:warishansari018@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
   </a>
+ 
+  <a href="https://www.instagram.com/mohammadwarish2024/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
+  </a>
+ <a href="https://facebook.com/profile.php?id=100074841669595" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook"/>
+  </a>
+  
 </p>
 
 ---
