@@ -87,7 +87,7 @@
 ---
 
 <a id="skills"></a>
-## 🧰 Skills (decorated & concise)
+## 🧰 Skills
 <p align="center">
   <strong>Frontend</strong>: React.js • Next.js • HTML • CSS • Tailwind • Vite • JavaScript • TypeScript  
   <br/>
@@ -106,27 +106,25 @@
 ## 🚀 Featured Projects
 
 ### 🔹 **MoviesVibe**
-- 🔗 **Code:** `https://github.com/mdwarishansari/moviesvibe` *(update if repo name differs)*  
+- 🔗 **Code:** https://github.com/mdwarishansari/moviesvibe 
 - A movie discovery & review web app built with React (frontend) and Node/Express (backend). Features user auth, ratings, and dynamic search filters to explore movies quickly.
 
 ### 🔹 **NexusShop**
-- 🔗 **Code:** `https://github.com/mdwarishansari/nexusshop` *(update if repo name differs)*  
+- 🔗 **Code:** https://github.com/mdwarishansari/nexusshop
 - An e-commerce demo project (MERN stack) showcasing product listings, cart functionality, and checkout flows. Focused on clear state management and responsive UI.
 
 ### 🔹 **SmartScore – AI Credit Scoring System**
 - 🔗 **Live:** https://smartscore-kw7f.onrender.com  
-- 🔗 **Code:** `https://github.com/mdwarishansari/smartscore` *(update link if repo name differs)*  
+- 🔗 **Code:** https://github.com/mdwarishansari/smartscore 
 - Machine-learning-powered credit risk prediction system built with Django + ML models. Designed for SIH 2025 with secure APIs, model inference endpoints, and a clean admin/dashboard.
 
-> ⚠️ Replace the `github.com` repo URLs above with the exact repo paths if they differ. I kept placeholders assuming `mdwarishansari/<repo>` naming — change them to the real links before publishing.
-
----
+>---
 
 <a id="current-work"></a>
 ## 📅 Current Work & Focus
 - 🚧 **Trackruit** — Actively building and iterating (project in progress).  
 - 🧠 Improving ML skills: prototyping, model evaluation, data pipelines, and deployment.  
-- 📈 Practicing DSA (focus: Backtracking & DP) and refining full-stack patterns.
+- 📈 Practicing DSA and refining full-stack patterns.
 
 ---
 
@@ -171,7 +169,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/md-warish-ansari-46b1ab258/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/md-warish-ansari/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
