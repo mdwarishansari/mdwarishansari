@@ -113,8 +113,7 @@
 - 🔗 **Code:** https://github.com/mdwarishansari/nexusshop
 - An e-commerce demo project (MERN stack) showcasing product listings, cart functionality, and checkout flows. Focused on clear state management and responsive UI.
 
-### 🔹 **SmartScore – AI Credit Scoring System**
-- 🔗 **Live:** https://smartscore-kw7f.onrender.com  
+### 🔹 **SmartScore – AI Credit Scoring System** 
 - 🔗 **Code:** https://github.com/mdwarishansari/smartscore 
 - Machine-learning-powered credit risk prediction system built with Django + ML models. Designed for SIH 2025 with secure APIs, model inference endpoints, and a clean admin/dashboard.
 
