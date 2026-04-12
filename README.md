@@ -93,16 +93,16 @@
   <br/>
   <strong>Backend</strong>: Node.js • Express • Django • REST APIs • Authentication • JWT  
   <br/>
-  <strong>Databases</strong>: MongoDB • MySQL • SQLite • Firebase  
+  <strong>Databases</strong>: MongoDB • MySQL • SQLite • PostgreSQL• Firebase  
   <br/>
-  <strong>Machine Learning & Data</strong>: Python • scikit-learn • pandas • NumPy • Jupyter • ML prototyping  
-  <br/>
+  <!-- <strong>Machine Learning & Data</strong>: Python • scikit-learn • pandas • NumPy • Jupyter • ML prototyping  
+  <br/> -->
   <strong>Tools & DevOps</strong>: Git • GitHub • Docker (basic) • NPM • Figma (design basics) • Postman
 </p>
 
 ---
 
-<a id="projects"></a>
+<!-- <a id="projects"></a>
 ## 🚀 Featured Projects
 
 ### 🔹 **MoviesVibe**
@@ -117,7 +117,7 @@
 - 🔗 **Code:** https://github.com/mdwarishansari/smartscore 
 - Machine-learning-powered credit risk prediction system built with Django + ML models. Designed for SIH 2025 with secure APIs, model inference endpoints, and a clean admin/dashboard.
 
->---
+>--- -->
 
 <a id="current-work"></a>
 ## 📅 Current Work & Focus
