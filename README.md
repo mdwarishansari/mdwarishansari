@@ -104,19 +104,19 @@
 <p align="center">
   <!-- Stats Card -->
   <a href="https://github.com/mdwarishansari">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdwarishansari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e94560&icon_color=e94560&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+    <img width="48%" src="https://github-readme-stats-eight.vercel.app/api?username=mdwarishansari&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
   </a>
   &nbsp;
   <!-- Streak Card -->
   <a href="https://github.com/mdwarishansari">
-    <img width="48%" src="https://streak-stats.demolab.com/?user=mdwarishansari&theme=radical&hide_border=true&background=0D1117&ring=e94560&fire=e94560&currStreakLabel=e94560&cache_seconds=86400" alt="GitHub Streak" />
+    <img width="48%" src="https://streak-stats.demolab.com/?user=mdwarishansari&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <!-- Top Languages Card -->
   <a href="https://github.com/mdwarishansari">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwarishansari&theme=radical&hide_border=true&bg_color=0D1117&title_color=e94560&text_color=C9D1D9&layout=compact&langs_count=6&cache_seconds=86400" alt="Top Languages" />
+    <img width="50%" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=mdwarishansari&theme=radical&hide_border=true&layout=compact&langs_count=6&cache_seconds=86400" alt="Top Languages" />
   </a>
 </p>
 
