@@ -27,7 +27,7 @@
   <a href="#about">About Me</a> • 
   <a href="#projects">Featured Project</a> • 
   <a href="#tech-arsenal">Tech Arsenal</a> • 
-  <a href="#snake">Snake Animation</a> • 
+  <a href="#activity">Activity Graph</a> • 
   <a href="#streak">GitHub Streak</a> • 
   <a href="#connect">Let's Connect</a>
 </p>
@@ -110,22 +110,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 </p>
 
-<!-- ─── CONTRIBUTION SNAKE ─── -->
-<h2 id="snake">🐍 Contribution Snake</h2>
+<!-- ─── ACTIVITY GRAPH ─── -->
+<h2 id="activity">📈 Contribution Activity Graph</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdwarishansari/mdwarishansari/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdwarishansari/mdwarishansari/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mdwarishansari/mdwarishansari/output/github-snake.svg" />
-  </picture>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdwarishansari&theme=radical&hide_border=true" alt="Activity Graph" />
 </div>
-
-<blockquote>
-  <p align="center">
-    <strong>💡 Note:</strong> If the snake animation does not load above, go to the <strong>Actions</strong> tab in your repository, select <strong>Generate Snake</strong>, and click <strong>Run workflow</strong> to generate the animation for the first time!
-  </p>
-</blockquote>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
