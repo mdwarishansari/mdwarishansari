@@ -27,12 +27,13 @@
   <a href="#about">About Me</a> • 
   <a href="#projects">Featured Project</a> • 
   <a href="#tech-arsenal">Tech Arsenal</a> • 
-  <a href="#github-stats">GitHub Analytics</a> • 
   <a href="#snake">Snake Animation</a> • 
   <a href="#connect">Let's Connect</a>
 </p>
 
-<hr style="border: 1px solid #1f2937;" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+</p>
 
 <!-- ─── ABOUT ME ─── -->
 <h2 id="about">🙋‍♂️ About Me</h2>
@@ -41,6 +42,8 @@
   I am a passionate <strong>Full-Stack Developer</strong> from India, currently pursuing my <strong>B.Tech in Computer Science & Engineering</strong>. I love exploring scalable backend systems, robust database designs, and modern frontend technologies. My coding philosophy is simple: <em>"I break things first, then learn how they work."</em> 😅
 </p>
 
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
 <ul>
   <li>🌱 Currently learning: <strong>Android Development, Next.js, and System Design</strong>.</li>
   <li>🧠 Exploring: <strong>Machine Learning and Scalable Cloud Architectures</strong>.</li>
@@ -48,7 +51,11 @@
   <li>⚡ Fun fact: <strong>I love solving real-world problems with clean, maintainable code.</strong></li>
 </ul>
 
-<hr style="border: 1px solid #1f2937;" />
+<br clear="both"/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+</p>
 
 <!-- ─── FEATURED PROJECT ─── -->
 <h2 id="projects">🚀 Featured Project</h2>
@@ -70,7 +77,9 @@
   </tr>
 </table>
 
-<hr style="border: 1px solid #1f2937;" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+</p>
 
 <!-- ─── CONSOLIDATED TECH ARSENAL ─── -->
 <h2 id="tech-arsenal">🛠️ Tech Arsenal</h2>
@@ -96,31 +105,9 @@
   </table>
 </div>
 
-<hr style="border: 1px solid #1f2937;" />
-
-<!-- ─── GITHUB STATS ─── -->
-<h2 id="github-stats">📊 GitHub Analytics</h2>
-
 <p align="center">
-  <!-- Stats Card -->
-  <a href="https://github.com/mdwarishansari">
-    <img width="48%" src="https://github-readme-stats-eight.vercel.app/api?username=mdwarishansari&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <!-- Streak Card -->
-  <a href="https://github.com/mdwarishansari">
-    <img width="48%" src="https://streak-stats.demolab.com/?user=mdwarishansari&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 </p>
-
-<p align="center">
-  <!-- Top Languages Card -->
-  <a href="https://github.com/mdwarishansari">
-    <img width="50%" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=mdwarishansari&theme=radical&hide_border=true&layout=compact&langs_count=6&cache_seconds=86400" alt="Top Languages" />
-  </a>
-</p>
-
-<hr style="border: 1px solid #1f2937;" />
 
 <!-- ─── CONTRIBUTION SNAKE ─── -->
 <h2 id="snake">🐍 Contribution Snake</h2>
@@ -133,7 +120,15 @@
   </picture>
 </div>
 
-<hr style="border: 1px solid #1f2937;" />
+<blockquote>
+  <p align="center">
+    <strong>💡 Note:</strong> If the snake animation does not load above, go to the <strong>Actions</strong> tab in your repository, select <strong>Generate Snake</strong>, and click <strong>Run workflow</strong> to generate the animation for the first time!
+  </p>
+</blockquote>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+</p>
 
 <!-- ─── CONNECT WITH ME ─── -->
 <h2 id="connect">🌐 Let's Connect</h2>
