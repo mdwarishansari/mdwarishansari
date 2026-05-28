@@ -28,6 +28,7 @@
   <a href="#projects">Featured Project</a> • 
   <a href="#tech-arsenal">Tech Arsenal</a> • 
   <a href="#snake">Snake Animation</a> • 
+  <a href="#streak">GitHub Streak</a> • 
   <a href="#connect">Let's Connect</a>
 </p>
 
@@ -125,6 +126,19 @@
     <strong>💡 Note:</strong> If the snake animation does not load above, go to the <strong>Actions</strong> tab in your repository, select <strong>Generate Snake</strong>, and click <strong>Run workflow</strong> to generate the animation for the first time!
   </p>
 </blockquote>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+</p>
+
+<!-- ─── CONTRIBUTION STREAK ─── -->
+<h2 id="streak">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <a href="https://github.com/mdwarishansari">
+    <img src="https://streak-stats.demolab.com/?user=mdwarishansari&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
