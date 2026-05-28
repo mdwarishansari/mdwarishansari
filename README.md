@@ -109,7 +109,7 @@ const warish = {
 
 <p align="center">
   <a href="https://linktr.ee/mdwarishansari"><img src="https://img.shields.io/badge/Linktree-43E660?logo=linktree&logoColor=white&style=for-the-badge" /></a>&ensp;
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=md-warish-ansari"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>&ensp;
+  <a href="https://www.linkedin.com/in/md-warish-ansari/"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>&ensp;
   <a href="https://x.com/mdwarish888"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" /></a>&ensp;
   <a href="mailto:warishansari018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>&ensp;
   <a href="https://www.instagram.com/mohammadwarish_ansari/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>&ensp;
@@ -135,10 +135,10 @@ const warish = {
 <div align="center">
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite,vue,redux,bootstrap&perline=11&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite,redux,bootstrap&perline=11&theme=dark" />
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,python,java,cpp&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java&perline=6&theme=dark" />
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,redis&perline=6&theme=dark" />
@@ -166,7 +166,6 @@ const warish = {
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
@@ -183,7 +182,6 @@ const warish = {
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
